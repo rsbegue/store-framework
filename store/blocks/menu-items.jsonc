@@ -35,7 +35,7 @@
     },
     "blocks": [
       "vtex.menu@2.x:submenu#electronics"
-    ],
+    ]
   },
   "menu-item#refrigerators": {
     "props": {
