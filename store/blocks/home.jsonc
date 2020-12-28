@@ -8,7 +8,7 @@
       "shelf",
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.desktop#mobile"
+      "responsive-layout.mobile#mobile"
     ]
   },
   "rich-text": {
@@ -85,7 +85,7 @@
       "image#desktop"
     ]
   },
-  "responsive-layout.desktop#mobile": {
+  "responsive-layout.mobile#mobile": {
     "children": [
       "rich-text#mobile",
       "image#mobile"
